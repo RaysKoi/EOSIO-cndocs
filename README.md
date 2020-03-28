@@ -17,7 +17,7 @@ EOSIO是针对智能合约和分布式应用部署的下一代区块链平台。
 ![EOS组件](eosio_components.png)
 
 * [nodeos](01_nodeos/index.md)：EOS的核心服务进程，实现支持区块生成、API终端和本地开发的节点
-  * [使用](01_/02_usage/index.md)
+  * [使用](01_nodeos/02_usage/index.md)
   * [插件](01_nodeos/03_plugins/index.md)
   * [重播](01_nodeos/04_replays/index.md)
   * [日志](01_nodeos/06_logging/index.md)
